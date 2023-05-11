@@ -1,5 +1,17 @@
 # 💫 About Me:
-I'm currently working on content creation<br>I'm looking to collaborate on software testing-related content creations<br>I'm looking for help with developing a chrome extension that can find<br>I'm currently learning chrome extension manifest v3 & flutter<br>Ask me about automation testing<br>Fun fact - I am lazy but smart
+I am a software engineer that’s skilled in the design, development, integration, and
+testing of software using Typescript, Nodejs, javaScript, and other related
+technologies. I am significantly knowledgeable in the workings of the centralized web
+and can develop scalable applications, monolithic or microservice-based, with every
+part communicating with each other through efficient queues and powerful APIs to
+solve real-life problems while putting the users at the heart of all iteration. <br/>
+With my Strong Knowledge in using AMAZON WEB SERVICE, I wrote an NPM
+MODULE for NodeJs Developers to simplify their Integration to AWS S3 and
+not only that, I have an enormous knowledge in using AWS LAMBDA FUNCTION
+to run code without managing servers and other cool features and lastly, With my
+problem solving mindset, I’m ready to pick up any task even if I’ve never done it
+before because what makes Development interesting is a Learning attitude. I’m
+strongly awaiting catching a deal with you that expands my knowledge of the Web.
 
 
 ## 🌐 Socials:
