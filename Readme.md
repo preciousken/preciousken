@@ -38,9 +38,9 @@ solve real-life problems while putting the users at the heart of all iteration.
 - Some of my projects  
     ##### 🌏 [emmyhcoin.com](https://emmyhcoin.com)
     ##### 🌏 [languvi.com](https://languvi.com)
-    ##### 🌏 [perzsirentals.com](https://www.perzsirentals.com)
+    <!-- ##### 🌏 [perzsirentals.com](https://www.perzsirentals.com) -->
     ##### 🌏 [heurisko.ai](https://heurisko.ai/)
-    ##### 🌏 [keysgame.me](https://keysgame.me)
+    <!-- ##### 🌏 [keysgame.me](https://keysgame.me) -->
 
 ## Languages and Tools
 <p align="center">
