@@ -15,7 +15,7 @@
 
 
 
-<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Precious Ademola <br/> ( SyntaxLoom )</h2>
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Precious Ademola <br/> ( SyntaxLoom ) <br/> FinTech Lord </h2>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Back+End+Engineer;Open%20Source&center=true&width=640&height=55"></a>
