@@ -29,6 +29,7 @@ part communicating with each other through efficient queues and powerful APIs to
 solve real-life problems while putting the users at the heart of all iteration.
 - ❤️ As much as I can, I enjoy contributing to **Open Source**
 - 👯 I’m looking to collaborate more on **projects**
+- _busy doing juju 🍀_
   
 - 💬 How to reach me :
     ##### 📧 [staunchngdev@gmail.com](mailto:staunchngdev@gmail.com)  
