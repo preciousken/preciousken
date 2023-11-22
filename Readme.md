@@ -43,9 +43,6 @@ solve real-life problems while putting the users at the heart of all iteration.
     <!-- ##### 🌏 [heurisko.ai](https://heurisko.ai/) -->
     <!-- ##### 🌏 [keysgame.me](https://keysgame.me) -->
 
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=preciousken)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
