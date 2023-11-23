@@ -22,7 +22,7 @@
 </p> 
 
 - 🚧 Full Stack MERN Developer skilled in the design, development, integration, and
-testing of software using Typescript, Nodejs, javaScript, and other related
+testing of software using Python, Typescript, Nodejs, javaScript, and other related
 technologies. I am significantly knowledgeable in the workings of the centralized web
 and can develop scalable applications, monolithic or microservice-based, with every
 part communicating with each other through efficient queues and powerful APIs to
