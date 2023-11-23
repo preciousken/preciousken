@@ -46,7 +46,7 @@ solve real-life problems while putting the users at the heart of all iteration.
 ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,ts,mongodb,git,css,express,firebase,git,github,heroku,js,postman,docker,aws,solidity,hardhat" />
+    <img src="https://skillicons.dev/icons?i=react,redux,ts,python,mysql,mongodb,git,css,express,firebase,git,github,heroku,js,postman,docker,aws,solidity,hardhat" />
   </a>
 </p>
 
