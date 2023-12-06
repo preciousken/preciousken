@@ -40,7 +40,7 @@ solve real-life problems while putting the users at the heart of all iteration.
     ##### 🌏 [emmyhcoin.com](https://emmyhcoin.com)
     ##### 🌏 [languvi.com](https://languvi.com)
     <!-- ##### 🌏 [perzsirentals.com](https://www.perzsirentals.com) -->
-    <!-- ##### 🌏 [heurisko.ai](https://heurisko.ai/) -->
+    ##### 🌏 [heurisko.ai](https://heurisko.ai/)
     <!-- ##### 🌏 [keysgame.me](https://keysgame.me) -->
 
 ## Languages and Tools
