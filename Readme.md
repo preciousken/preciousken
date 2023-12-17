@@ -34,7 +34,7 @@ solve real-life problems while putting the users at the heart of all iteration.
 - 💬 How to reach me :
     ##### 📧 [staunchngdev@gmail.com](mailto:staunchngdev@gmail.com)  
     ##### 🌏 [https://preciousken.netlify.app](https://preciousken.netlify.app)
-    ##### 📞 [08108498996](tel:+2348108498996)
+    ##### 📞 [+2348108498996](tel:+2348108498996)
 
 - Some of my projects  
     ##### 🌏 [emmyhcoin.com](https://emmyhcoin.com)
