@@ -42,6 +42,7 @@ solve real-life problems while putting the users at the heart of all iteration.
     <!-- ##### 🌏 [perzsirentals.com](https://www.perzsirentals.com) -->
     ##### 🌏 [heurisko.ai](https://heurisko.ai/)
     <!-- ##### 🌏 [keysgame.me](https://keysgame.me) -->
+  ##### 🌏 [stakecoreum.com](https://stakecoreum.com/)
 
 ## Languages and Tools
 <p align="center">
