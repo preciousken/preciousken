@@ -44,13 +44,13 @@ solve real-life problems while putting the users at the heart of all iteration.
     <!-- ##### 🌏 [keysgame.me](https://keysgame.me) -->
   ##### 🌏 [stakecoreum.com](https://stakecoreum.com/)
 
-## Languages and Tools
+<!-- ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,redux,ts,python,mysql,mongodb,git,css,express,firebase,git,github,heroku,js,postman,docker,aws,solidity,hardhat" />
   </a>
 </p>
-
+ -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=preciousken&theme=dark&hide_border=true)<br/>
